@@ -1,0 +1,3 @@
+[submodule "git-collaboration"]
+	path = git-collaboration
+	url = https://github.com/mudiuth/git-collaboration.git
